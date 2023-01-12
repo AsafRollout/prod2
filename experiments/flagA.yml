@@ -2,6 +2,6 @@
 type: experiment
 flag: flagA
 availableValues:
-  - zxcv
+  - qwer
   - nothing
-value: zxcv
+value: qwer
